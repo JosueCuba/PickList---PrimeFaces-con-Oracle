@@ -1,0 +1,4 @@
+model\Departamento.class
+model\Asignatura.class
+dao\Conexion.class
+model\Profesor.class
